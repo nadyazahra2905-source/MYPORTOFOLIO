@@ -30,7 +30,7 @@ window.PORTFOLIO_DATA = {
     }
   },
   "profile": {
-    "name": "Nadya Kurni Azzahra",
+    "name": "Nadya Kurnia Azzahra",
     "role": "Electronic Engineering",
     "eyebrow": "Instrumentation & Control Systems",
     "summary": "",
